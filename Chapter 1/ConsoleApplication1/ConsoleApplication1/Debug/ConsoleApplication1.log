@@ -1,0 +1,5 @@
+﻿  program.cpp
+program.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  program.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ConsoleApplication1.vcxproj -> C:\Users\kevin.b.harris\Documents\Programming\C++\Mastering Visual Basic 2010 Projects\Chapter 1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\kevin.b.harris\Documents\Programming\C++\Mastering Visual Basic 2010 Projects\Chapter 1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)

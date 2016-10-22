@@ -1,0 +1,5 @@
+﻿  frmMain.cpp
+frmMain.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  frmMain.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  WindowsApplication2.vcxproj -> C:\Users\kevin.b.harris\Documents\Programming\C++\Mastering Visual Basic 2010 Projects\Chapter 1\WindowsApplication2\x64\Debug\WindowsApplication2.exe
+  WindowsApplication2.vcxproj -> C:\Users\kevin.b.harris\Documents\Programming\C++\Mastering Visual Basic 2010 Projects\Chapter 1\WindowsApplication2\x64\Debug\WindowsApplication2.pdb (Partial PDB)

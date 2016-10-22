@@ -1,9 +1,0 @@
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\bin\OnlineOrdering.dll
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\bin\OnlineOrdering.pdb
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\bin\OnlineOrdering.xml
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\ResolveAssemblyReference.cache
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\OnlineOrdering.Resources.resources
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\OnlineOrdering.vbproj.GenerateResource.Cache
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\OnlineOrdering.dll
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\OnlineOrdering.xml
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c20\9780470532874 c20 code\OnlineOrdering\OnlineOrdering\obj\Debug\OnlineOrdering.pdb

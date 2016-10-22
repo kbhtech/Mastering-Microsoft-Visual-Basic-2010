@@ -1,9 +1,0 @@
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.exe
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\bin\Debug\WindowsApplication1.xml
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
-C:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c04\9780470532874 c04 code\Math Calculator\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

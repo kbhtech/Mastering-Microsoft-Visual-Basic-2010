@@ -1,7 +1,0 @@
-﻿<Loan>
-  <Amount>135000</Amount>
-  <Duration>66</Duration>
-  <DurationUnit>Years</DurationUnit>
-  <Interest>8.75</Interest>
-  <Payment>-1417500</Payment>
-</Loan>
