@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DirectoryScanner">
+</Property><Property Name="Solution File" Value="G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner.sln">
+</Property><Property Name="User Options File" Value="G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner.suo">
+</Property><Property Name="Date" Value="Saturday, October 17, 2009">
+</Property><Property Name="Time" Value="23:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DirectoryScanner.sln" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DirectoryScanner.suo" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner.suo">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vbproj" Description="Project file successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\DirectoryScanner.vbproj">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vbproj.user" Description="Project user file successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\DirectoryScanner.vbproj.user">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\DirectoryScanner.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\frmTest.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\frmTest.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\frmTest.Designer.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\frmTest.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\AssemblyInfo.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Application.Designer.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Resources.Designer.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Settings.Designer.vb" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Application.myapp" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Settings.settings" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\frmTest.resx" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\frmTest.resx">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\My Project\Resources.resx" Description="File successfully backed up as G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\Backup\DirectoryScanner\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DirectoryScanner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DirectoryScanner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DirectoryScanner" Source="DirectoryScanner\DirectoryScanner.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

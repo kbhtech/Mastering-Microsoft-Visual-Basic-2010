@@ -1,0 +1,13 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 1\New Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\kevin.b.harris\Documents\Programming\Visual Basic\dotNet\Mastering Visual Basic 2010\Projects\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\kevin.b.harris\Documents\Programming\Visual Basic\dotNet\Mastering Visual Basic 2010\Projects\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\kevin.b.harris\Documents\Programming\Visual Basic\dotNet\Mastering Visual Basic 2010\Projects\Chapter 1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

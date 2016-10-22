@@ -1,0 +1,23 @@
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\bin\Debug\ArraySearch.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\bin\Debug\ArraySearch.pdb
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\bin\Debug\ArraySearch.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.Form1.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.Resources.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.vbproj.GenerateResource.Cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\ArraySearch\obj\Debug\ArraySearch.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Collections\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Collections\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Collections\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\bin\Debug\ArraySearch.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\bin\Debug\ArraySearch.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\bin\Debug\ArraySearch.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.Form1.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 14\Projects\ArraySearch\ArraySearch\obj\Debug\ArraySearch.vbproj.GenerateResource.Cache

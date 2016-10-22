@@ -1,0 +1,10 @@
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\bin\Debug\LimitedBrowser.exe
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\bin\Debug\LimitedBrowser.pdb
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\bin\Debug\LimitedBrowser.xml
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.Form1.resources
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.Resources.resources
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.vbproj.GenerateResource.Cache
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.exe
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.xml
+H:\danijel\Mastering\9780470532874 version 1.0.0\9780470532874 c19\9780470532874 c19 code\LimitedBrowser\LimitedBrowser\obj\x86\Debug\LimitedBrowser.pdb

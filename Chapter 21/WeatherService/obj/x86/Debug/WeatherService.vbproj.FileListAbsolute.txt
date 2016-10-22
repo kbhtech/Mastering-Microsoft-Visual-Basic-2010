@@ -1,0 +1,11 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\bin\Debug\WeatherService.exe.config
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\bin\Debug\WeatherService.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\bin\Debug\WeatherService.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\bin\Debug\WeatherService.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Web Service\WeatherService\obj\x86\Debug\WeatherService.pdb

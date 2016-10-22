@@ -1,0 +1,33 @@
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\NonRectangular.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.LEDButton.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.RoundControl.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.dll
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.pdb
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\ResolveAssemblyReference.cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.LEDButton.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.Resources.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.RoundControl.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\NonRectangular.vbproj.GenerateResource.Cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.dll
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\bin\Release\RoundControl.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.LEDButton.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.RoundControl.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\NonRectangular.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\NonRectangularControl\RoundControl\obj\Release\RoundControl.pdb

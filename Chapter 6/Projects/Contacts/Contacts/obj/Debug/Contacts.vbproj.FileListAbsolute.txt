@@ -1,0 +1,33 @@
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\bin\Debug\Contacts.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\bin\Debug\Contacts.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\bin\Debug\Contacts.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\New Folder\Contacts\Contacts\obj\Debug\Contacts.pdb
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.xml
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.xml
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.Resources.resources
+F:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\bin\Debug\Contacts.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 7\Projects\Contacts\Contacts\obj\Debug\Contacts.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 6\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 6\Projects\Contacts\Contacts\obj\Debug\Contacts.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 6\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb

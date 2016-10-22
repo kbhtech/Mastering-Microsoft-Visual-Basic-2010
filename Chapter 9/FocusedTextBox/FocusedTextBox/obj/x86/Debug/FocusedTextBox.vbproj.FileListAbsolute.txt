@@ -1,0 +1,9 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\bin\Debug\FocusedTextBox.dll
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\bin\Debug\FocusedTextBox.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\bin\Debug\FocusedTextBox.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\FocusedTextBox.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\FocusedTextBox.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\FocusedTextBox.dll
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\FocusedTextBox.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\FocusedTextBox\obj\x86\Debug\FocusedTextBox.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FlexLabel", "FlexLabel\FlexLabel.vbproj", "{93F03ADB-814E-4B7E-B97F-F32EEFD70969}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestProject", "TestProject\TestProject.vbproj", "{1369FBE2-698D-4F51-A164-0079D83BB27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F03ADB-814E-4B7E-B97F-F32EEFD70969}.Debug|x86.ActiveCfg = Debug|x86
+		{93F03ADB-814E-4B7E-B97F-F32EEFD70969}.Debug|x86.Build.0 = Debug|x86
+		{93F03ADB-814E-4B7E-B97F-F32EEFD70969}.Release|x86.ActiveCfg = Release|x86
+		{93F03ADB-814E-4B7E-B97F-F32EEFD70969}.Release|x86.Build.0 = Release|x86
+		{1369FBE2-698D-4F51-A164-0079D83BB27F}.Debug|x86.ActiveCfg = Debug|x86
+		{1369FBE2-698D-4F51-A164-0079D83BB27F}.Debug|x86.Build.0 = Debug|x86
+		{1369FBE2-698D-4F51-A164-0079D83BB27F}.Release|x86.ActiveCfg = Release|x86
+		{1369FBE2-698D-4F51-A164-0079D83BB27F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\bin\Debug\StringTools.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\bin\Debug\StringTools.pdb
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\bin\Debug\StringTools.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.Resources.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.TestForm.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.vbproj.GenerateResource.Cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\StringTools\obj\Debug\StringTools.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\bin\Debug\StringTools.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\bin\Debug\StringTools.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\bin\Debug\StringTools.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.TestForm.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\StringTools\StringTools\obj\Debug\StringTools.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\StringTools\StringTools\obj\Debug\StringTools.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\StringTools\StringTools\obj\Debug\StringTools.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\StringTools\StringTools\obj\Debug\StringTools.pdb

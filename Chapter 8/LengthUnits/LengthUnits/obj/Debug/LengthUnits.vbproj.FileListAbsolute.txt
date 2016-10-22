@@ -1,0 +1,30 @@
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\bin\Debug\LengthUnits.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\bin\Debug\LengthUnits.pdb
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\bin\Debug\LengthUnits.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.frmUnitsTest.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.Resources.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.vbproj.GenerateResource.Cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\LengthUnits\obj\Debug\LengthUnits.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.frmUnitsTest.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\bin\Debug\LengthUnits.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.frmUnitsTest.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\LengthUnits\LengthUnits\obj\Debug\LengthUnits.vbproj.GenerateResource.Cache

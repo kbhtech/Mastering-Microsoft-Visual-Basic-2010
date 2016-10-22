@@ -1,0 +1,24 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\bin\Debug\NWOrders.exe.config
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\bin\Debug\NWOrders.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\bin\Debug\NWOrders.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\bin\Debug\NWOrders.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.frmLINQ.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Data Driven Apps\NWOrders\NWOrders\obj\x86\Debug\NWOrders.frmSQL.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\bin\Debug\NWOrders.exe.config
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\bin\Debug\NWOrders.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\bin\Debug\NWOrders.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\bin\Debug\NWOrders.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.frmLINQ.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.frmSQL.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 16\Projects\NWOrders\NWOrders\obj\x86\Debug\NWOrders.vbproj.GenerateResource.Cache

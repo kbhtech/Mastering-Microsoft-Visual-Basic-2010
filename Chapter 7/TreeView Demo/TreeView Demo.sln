@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TreeView Demo", "TreeView Demo\TreeView Demo.vbproj", "{40F3E5F7-901E-475F-9753-1E0ED80B9682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F3E5F7-901E-475F-9753-1E0ED80B9682}.Debug|x86.ActiveCfg = Debug|x86
+		{40F3E5F7-901E-475F-9753-1E0ED80B9682}.Debug|x86.Build.0 = Debug|x86
+		{40F3E5F7-901E-475F-9753-1E0ED80B9682}.Release|x86.ActiveCfg = Release|x86
+		{40F3E5F7-901E-475F-9753-1E0ED80B9682}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

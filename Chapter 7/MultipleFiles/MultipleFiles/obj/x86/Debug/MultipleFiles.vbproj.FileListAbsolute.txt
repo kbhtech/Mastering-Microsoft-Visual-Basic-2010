@@ -1,0 +1,9 @@
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.exe
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.pdb
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\bin\Debug\MultipleFiles.xml
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\MultipleFiles.Resources.resources
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\MultipleFiles.vbproj.GenerateResource.Cache
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\MultipleFiles.exe
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\MultipleFiles.xml
+C:\Work\Mastering VB 2010\9780470532874 version 1.0.0\9780470532874 c07\9780470532874 c07 code\MultipleFiles\MultipleFiles\obj\x86\Debug\MultipleFiles.pdb

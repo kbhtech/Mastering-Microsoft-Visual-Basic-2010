@@ -1,0 +1,21 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\bin\Debug\Bookings.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\bin\Debug\Bookings.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\bin\Debug\Bookings.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Misc Projects\Chapter 10\Bookings\Bookings\obj\x86\Debug\Bookings.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\Bookings.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\Bookings.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\Bookings.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\bin\Debug\Bookings.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\bin\Debug\Bookings.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\bin\Debug\Bookings.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\Bookings.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\Bookings.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Bookings\Bookings\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,13 @@
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\TestProject.exe
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\TestProject.pdb
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\TestProject.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\ColorEdit.dll
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\ColorEdit.pdb
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\bin\Debug\ColorEdit.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.Form1.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.Resources.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.vbproj.GenerateResource.Cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.exe
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\TestProject\obj\Debug\TestProject.pdb

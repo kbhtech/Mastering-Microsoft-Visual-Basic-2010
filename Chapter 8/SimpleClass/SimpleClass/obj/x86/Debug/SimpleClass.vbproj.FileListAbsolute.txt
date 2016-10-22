@@ -1,0 +1,10 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\bin\Debug\SimpleClass.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\bin\Debug\SimpleClass.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\bin\Debug\SimpleClass.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\SimpleClass\SimpleClass\obj\x86\Debug\SimpleClass.exe

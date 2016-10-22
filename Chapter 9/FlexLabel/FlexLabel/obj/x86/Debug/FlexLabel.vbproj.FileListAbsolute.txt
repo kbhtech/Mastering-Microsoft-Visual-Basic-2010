@@ -1,0 +1,9 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\bin\Debug\FlexLabel.dll
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\bin\Debug\FlexLabel.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\bin\Debug\FlexLabel.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\FlexLabel.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\FlexLabel.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\FlexLabel.dll
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\FlexLabel.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FlexLabel\FlexLabel\obj\x86\Debug\FlexLabel.pdb

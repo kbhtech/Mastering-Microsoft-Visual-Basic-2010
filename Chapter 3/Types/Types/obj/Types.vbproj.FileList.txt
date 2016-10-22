@@ -1,0 +1,10 @@
+obj\Debug\Types.exe
+obj\Debug\Types.xml
+obj\Debug\Types.pdb
+bin\Debug\Types.exe
+bin\Debug\Types.pdb
+bin\Debug\Types.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Types.Form1.resources
+obj\Debug\Types.Resources.resources
+obj\Debug\Types.vbproj.GenerateResource.Cache

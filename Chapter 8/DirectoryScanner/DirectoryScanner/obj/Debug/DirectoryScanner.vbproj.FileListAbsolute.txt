@@ -1,0 +1,30 @@
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\bin\Debug\DirectoryScanner.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\bin\Debug\DirectoryScanner.pdb
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\bin\Debug\DirectoryScanner.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.frmTest.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.Resources.resources
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.vbproj.GenerateResource.Cache
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.exe
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.xml
+F:\Users\Evangelos\AppData\Local\Temporary Projects\DirectoryScanner\obj\Debug\DirectoryScanner.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.frmTest.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 10\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\bin\Debug\DirectoryScanner.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.frmTest.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 8\Projects\DirectoryScanner\DirectoryScanner\obj\Debug\DirectoryScanner.vbproj.GenerateResource.Cache

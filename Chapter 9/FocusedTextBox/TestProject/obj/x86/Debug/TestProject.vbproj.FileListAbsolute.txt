@@ -1,0 +1,13 @@
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\TestProject.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\TestProject.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\TestProject.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\FocusedTextBox.dll
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\FocusedTextBox.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\bin\Debug\FocusedTextBox.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 9\Projects\FocusedTextBox\TestProject\obj\x86\Debug\TestProject.pdb

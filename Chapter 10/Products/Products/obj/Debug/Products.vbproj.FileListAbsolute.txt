@@ -1,0 +1,21 @@
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\bin\Debug\Products.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\bin\Debug\Products.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\bin\Debug\Products.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.Form1.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.exe
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 11\Projects\Products\Products\obj\Debug\Products.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\Products.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\Products.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\Products.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\bin\Debug\Products.exe
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\bin\Debug\Products.pdb
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\bin\Debug\Products.xml
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\Products.Form1.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\Products.Resources.resources
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Work\SYBEX\VB2010\Mastering VB2010\Chapter 10\Projects\Products\Products\obj\Debug\GenerateResource-ResGen.write.1.tlog

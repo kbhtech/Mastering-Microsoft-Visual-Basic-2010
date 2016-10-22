@@ -1,0 +1,724 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataService
+</name>
+</assembly>
+<members>
+<member name="P:DataService.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:DataService.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:DataService.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:DataService.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:DataService.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:DataService.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:DataService.NorthwindEntities.#ctor">
+	<summary>
+ Initializes a new NorthwindEntities object using the connection string found in the 'NorthwindEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new NorthwindEntities object.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new NorthwindEntities object.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Categories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.CustomerDemographics">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Customers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Employees">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Regions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Shippers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Suppliers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.sysdiagrams">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.NorthwindEntities.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToCategories(DataService.Category)">
+	<summary>
+ Deprecated Method for adding a new object to the Categories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToCustomerDemographics(DataService.CustomerDemographic)">
+	<summary>
+ Deprecated Method for adding a new object to the CustomerDemographics EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToCustomers(DataService.Customer)">
+	<summary>
+ Deprecated Method for adding a new object to the Customers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToEmployees(DataService.Employee)">
+	<summary>
+ Deprecated Method for adding a new object to the Employees EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToOrder_Details(DataService.Order_Detail)">
+	<summary>
+ Deprecated Method for adding a new object to the Order_Details EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToOrders(DataService.Order)">
+	<summary>
+ Deprecated Method for adding a new object to the Orders EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToProducts(DataService.Product)">
+	<summary>
+ Deprecated Method for adding a new object to the Products EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToRegions(DataService.Region)">
+	<summary>
+ Deprecated Method for adding a new object to the Regions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToShippers(DataService.Shipper)">
+	<summary>
+ Deprecated Method for adding a new object to the Shippers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToSuppliers(DataService.Supplier)">
+	<summary>
+ Deprecated Method for adding a new object to the Suppliers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddTosysdiagrams(DataService.sysdiagram)">
+	<summary>
+ Deprecated Method for adding a new object to the sysdiagrams EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:DataService.NorthwindEntities.AddToTerritories(DataService.Territory)">
+	<summary>
+ Deprecated Method for adding a new object to the Territories EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:DataService.NorthwindEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Category.CreateCategory(System.Int32,System.String)">
+	<summary>
+ Create a new Category object.
+ </summary>
+	<param name="categoryID">Initial value of the CategoryID property.</param>
+	<param name="categoryName">Initial value of the CategoryName property.</param>
+</member><member name="P:DataService.Category.CategoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Category.CategoryName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Category.Description">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Category.Picture">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Category.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Customer.CreateCustomer(System.String,System.String)">
+	<summary>
+ Create a new Customer object.
+ </summary>
+	<param name="customerID">Initial value of the CustomerID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:DataService.Customer.CustomerID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.ContactName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.ContactTitle">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Fax">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Customer.CustomerDemographics">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Customer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.CustomerDemographic.CreateCustomerDemographic(System.String)">
+	<summary>
+ Create a new CustomerDemographic object.
+ </summary>
+	<param name="customerTypeID">Initial value of the CustomerTypeID property.</param>
+</member><member name="P:DataService.CustomerDemographic.CustomerTypeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.CustomerDemographic.CustomerDesc">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.CustomerDemographic.Customers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.CustomerDemographic">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Employee.CreateEmployee(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new Employee object.
+ </summary>
+	<param name="employeeID">Initial value of the EmployeeID property.</param>
+	<param name="lastName">Initial value of the LastName property.</param>
+	<param name="firstName">Initial value of the FirstName property.</param>
+</member><member name="P:DataService.Employee.EmployeeID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.LastName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.FirstName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Title">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.TitleOfCourtesy">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.BirthDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.HireDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.HomePhone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Extension">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Photo">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Notes">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.PhotoPath">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Employees1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Employee1">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Employee1Reference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Employee.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Employee">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Order.CreateOrder(System.Int32)">
+	<summary>
+ Create a new Order object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+</member><member name="P:DataService.Order.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.OrderDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.RequiredDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShippedDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.Freight">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipAddress">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipCity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipRegion">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipPostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipCountry">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.Customer">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.CustomerReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.Employee">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.EmployeeReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.Shipper">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order.ShipperReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Order">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Order_Detail.CreateOrder_Detail(System.Int32,System.Int32,System.Decimal,System.Int16,System.Single)">
+	<summary>
+ Create a new Order_Detail object.
+ </summary>
+	<param name="orderID">Initial value of the OrderID property.</param>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="unitPrice">Initial value of the UnitPrice property.</param>
+	<param name="quantity">Initial value of the Quantity property.</param>
+	<param name="discount">Initial value of the Discount property.</param>
+</member><member name="P:DataService.Order_Detail.OrderID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.Quantity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.Discount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.Order">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.OrderReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Order_Detail.ProductReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Order_Detail">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Product.CreateProduct(System.Int32,System.String,System.Boolean)">
+	<summary>
+ Create a new Product object.
+ </summary>
+	<param name="productID">Initial value of the ProductID property.</param>
+	<param name="productName">Initial value of the ProductName property.</param>
+	<param name="discontinued">Initial value of the Discontinued property.</param>
+</member><member name="P:DataService.Product.ProductID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.ProductName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.QuantityPerUnit">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.UnitPrice">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.UnitsInStock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.UnitsOnOrder">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.ReorderLevel">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.Discontinued">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.Category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.CategoryReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.Order_Details">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.Supplier">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Product.SupplierReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Product">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Region.CreateRegion(System.Int32,System.String)">
+	<summary>
+ Create a new Region object.
+ </summary>
+	<param name="regionID">Initial value of the RegionID property.</param>
+	<param name="regionDescription">Initial value of the RegionDescription property.</param>
+</member><member name="P:DataService.Region.RegionID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Region.RegionDescription">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Region.Territories">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Shipper.CreateShipper(System.Int32,System.String)">
+	<summary>
+ Create a new Shipper object.
+ </summary>
+	<param name="shipperID">Initial value of the ShipperID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:DataService.Shipper.ShipperID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Shipper.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Shipper.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Shipper.Orders">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Shipper">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Supplier.CreateSupplier(System.Int32,System.String)">
+	<summary>
+ Create a new Supplier object.
+ </summary>
+	<param name="supplierID">Initial value of the SupplierID property.</param>
+	<param name="companyName">Initial value of the CompanyName property.</param>
+</member><member name="P:DataService.Supplier.SupplierID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.CompanyName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.ContactName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.ContactTitle">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Address">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.City">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.PostalCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Country">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Phone">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Fax">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.HomePage">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Supplier.Products">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Supplier">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.sysdiagram.Createsysdiagram(System.String,System.Int32,System.Int32)">
+	<summary>
+ Create a new sysdiagram object.
+ </summary>
+	<param name="name">Initial value of the name property.</param>
+	<param name="principal_id">Initial value of the principal_id property.</param>
+	<param name="diagram_id">Initial value of the diagram_id property.</param>
+</member><member name="P:DataService.sysdiagram.name">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.sysdiagram.principal_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.sysdiagram.diagram_id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.sysdiagram.version">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.sysdiagram.definition">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.sysdiagram">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:DataService.Territory.CreateTerritory(System.String,System.String)">
+	<summary>
+ Create a new Territory object.
+ </summary>
+	<param name="territoryID">Initial value of the TerritoryID property.</param>
+	<param name="territoryDescription">Initial value of the TerritoryDescription property.</param>
+</member><member name="P:DataService.Territory.TerritoryID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Territory.TerritoryDescription">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Territory.Region">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Territory.RegionReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:DataService.Territory.Employees">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:DataService.Territory">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>

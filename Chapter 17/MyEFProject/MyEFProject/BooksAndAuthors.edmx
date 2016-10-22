@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BooksAndAuthors.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="BooksAndAuthorsStoreContainer">
+    <EntitySet Name="Books" EntityType="BooksAndAuthors.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Persons" EntityType="BooksAndAuthors.Store.Persons" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Addresses" EntityType="BooksAndAuthors.Store.Addresses" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Languages" EntityType="BooksAndAuthors.Store.Languages" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SalesByMonth" EntityType="BooksAndAuthors.Store.SalesByMonth" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Persons_Translator" EntityType="BooksAndAuthors.Store.Persons_Translator" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Persons_Author" EntityType="BooksAndAuthors.Store.Persons_Author" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PersonBook" EntityType="BooksAndAuthors.Store.PersonBook" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TranslatorLanguages" EntityType="BooksAndAuthors.Store.TranslatorLanguages" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="PersonAddress" Association="BooksAndAuthors.Store.PersonAddress">
+      <End Role="Person" EntitySet="Persons" />
+      <End Role="Address" EntitySet="Addresses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonBook_Person" Association="BooksAndAuthors.Store.FK_PersonBook_Person">
+      <End Role="Person" EntitySet="Persons" />
+      <End Role="PersonBook" EntitySet="PersonBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PersonBook_Book" Association="BooksAndAuthors.Store.FK_PersonBook_Book">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="PersonBook" EntitySet="PersonBook" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TranslatorLanguages_Translator" Association="BooksAndAuthors.Store.FK_TranslatorLanguages_Translator">
+      <End Role="Translator" EntitySet="Persons_Translator" />
+      <End Role="TranslatorLanguages" EntitySet="TranslatorLanguages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TranslatorLanguages_Languages" Association="BooksAndAuthors.Store.FK_TranslatorLanguages_Languages">
+      <End Role="Languages" EntitySet="Languages" />
+      <End Role="TranslatorLanguages" EntitySet="TranslatorLanguages" />
+    </AssociationSet>
+    <AssociationSet Name="BookSales" Association="BooksAndAuthors.Store.BookSales">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="Sales" EntitySet="SalesByMonth" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Translator_inherits_Person" Association="BooksAndAuthors.Store.FK_Translator_inherits_Person">
+      <End Role="Person" EntitySet="Persons" />
+      <End Role="Translator" EntitySet="Persons_Translator" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Author_inherits_Person" Association="BooksAndAuthors.Store.FK_Author_inherits_Person">
+      <End Role="Person" EntitySet="Persons" />
+      <End Role="Author" EntitySet="Persons_Author" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="varchar" Nullable="false" MaxLength="13" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="4000" />
+    <Property Name="PublishingDate" Type="datetime" Nullable="false" />
+    <Property Name="PageCount" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Persons">
+    <Key>
+      <PropertyRef Name="SSN" />
+    </Key>
+    <Property Name="SSN" Type="char" Nullable="false" MaxLength="9" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Phone_CountryCode" Type="nvarchar" Nullable="false" MaxLength="3" />
+    <Property Name="Phone_AreaCode" Type="nvarchar" Nullable="false" DefaultValue="1" MaxLength="3" />
+    <Property Name="Phone_Number" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Phone_Extension" Type="nvarchar" Nullable="true" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Addresses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstLine" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="SecondLine" Type="nvarchar" Nullable="true" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="PostalCode" Type="int" Nullable="false" />
+    <Property Name="State" Type="nvarchar" Nullable="false" MaxLength="25" />
+    <Property Name="Person_SSN" Type="char" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Languages">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SalesByMonth">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Month" Type="smallint" Nullable="false" />
+    <Property Name="Year" Type="smallint" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CopiesSold" Type="bigint" Nullable="false" />
+    <Property Name="Book_ISBN" Type="varchar" MaxLength="13" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Persons_Translator">
+    <Key>
+      <PropertyRef Name="SSN" />
+    </Key>
+    <Property Name="SSN" Type="char" Nullable="false" MaxLength="9" />
+  </EntityType>
+  <EntityType Name="Persons_Author">
+    <Key>
+      <PropertyRef Name="SSN" />
+    </Key>
+    <Property Name="Signed" Type="datetime" Nullable="false" />
+    <Property Name="SSN" Type="char" Nullable="false" MaxLength="9" />
+  </EntityType>
+  <EntityType Name="PersonBook">
+    <Key>
+      <PropertyRef Name="Persons_SSN" />
+      <PropertyRef Name="Books_ISBN" />
+    </Key>
+    <Property Name="Persons_SSN" Type="char" Nullable="false" MaxLength="9" />
+    <Property Name="Books_ISBN" Type="varchar" Nullable="false" MaxLength="13" />
+  </EntityType>
+  <EntityType Name="TranslatorLanguages">
+    <Key>
+      <PropertyRef Name="Translator_SSN" />
+      <PropertyRef Name="Languages_Id" />
+    </Key>
+    <Property Name="Translator_SSN" Type="char" Nullable="false" MaxLength="9" />
+    <Property Name="Languages_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="PersonAddress">
+    <End Role="Person" Type="BooksAndAuthors.Store.Persons" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Address" Type="BooksAndAuthors.Store.Addresses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="Address">
+        <PropertyRef Name="Person_SSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BookSales">
+    <End Role="Book" Type="BooksAndAuthors.Store.Books" Multiplicity="1" />
+    <End Role="Sales" Type="BooksAndAuthors.Store.SalesByMonth" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="Sales">
+        <PropertyRef Name="Book_ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonBook_Person">
+    <End Role="Person" Type="BooksAndAuthors.Store.Persons" Multiplicity="1" />
+    <End Role="PersonBook" Type="BooksAndAuthors.Store.PersonBook" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="PersonBook">
+        <PropertyRef Name="Persons_SSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PersonBook_Book">
+    <End Role="PersonBook" Type="BooksAndAuthors.Store.PersonBook" Multiplicity="*" />
+    <End Role="Book" Type="BooksAndAuthors.Store.Books" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="PersonBook">
+        <PropertyRef Name="Books_ISBN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TranslatorLanguages_Translator">
+    <End Role="Translator" Type="BooksAndAuthors.Store.Persons_Translator" Multiplicity="1" />
+    <End Role="TranslatorLanguages" Type="BooksAndAuthors.Store.TranslatorLanguages" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Translator">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="TranslatorLanguages">
+        <PropertyRef Name="Translator_SSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TranslatorLanguages_Languages">
+    <End Role="TranslatorLanguages" Type="BooksAndAuthors.Store.TranslatorLanguages" Multiplicity="*" />
+    <End Role="Languages" Type="BooksAndAuthors.Store.Languages" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Languages">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="TranslatorLanguages">
+        <PropertyRef Name="Languages_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Translator_inherits_Person">
+    <End Role="Person" Type="BooksAndAuthors.Store.Persons" Multiplicity="1" />
+    <End Role="Translator" Type="BooksAndAuthors.Store.Persons_Translator" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="Translator">
+        <PropertyRef Name="SSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Author_inherits_Person">
+    <End Role="Person" Type="BooksAndAuthors.Store.Persons" Multiplicity="1" />
+    <End Role="Author" Type="BooksAndAuthors.Store.Persons_Author" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="SSN" />
+      </Principal>
+      <Dependent Role="Author">
+        <PropertyRef Name="SSN" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="BooksAndAuthors" Alias="Self">
+        <EntityContainer Name="BooksAndAuthorsContainer" >
+          <EntitySet Name="Books" EntityType="BooksAndAuthors.Book" />
+          <EntitySet Name="Persons" EntityType="BooksAndAuthors.Person" />
+          <EntitySet Name="Addresses" EntityType="BooksAndAuthors.Address" />
+          <AssociationSet Name="PersonAddress" Association="BooksAndAuthors.PersonAddress">
+            <End Role="Person" EntitySet="Persons" />
+            <End Role="Address" EntitySet="Addresses" /></AssociationSet>
+          <AssociationSet Name="PersonBook" Association="BooksAndAuthors.PersonBook">
+            <End Role="Person" EntitySet="Persons" />
+            <End Role="Book" EntitySet="Books" /></AssociationSet>
+          <EntitySet Name="Languages" EntityType="BooksAndAuthors.Language" />
+          <AssociationSet Name="TranslatorLanguages" Association="BooksAndAuthors.TranslatorLanguages">
+            <End Role="Translator" EntitySet="Persons" />
+            <End Role="Languages" EntitySet="Languages" /></AssociationSet>
+          <EntitySet Name="SalesByMonth" EntityType="BooksAndAuthors.SaleByMonth" />
+          <AssociationSet Name="BookSales" Association="BooksAndAuthors.BookSales">
+            <End Role="Book" EntitySet="Books" />
+            <End Role="Sales" EntitySet="SalesByMonth" /></AssociationSet></EntityContainer>
+        <EntityType Name="Book">
+          <Key>
+            <PropertyRef Name="ISBN" /></Key>
+          <Property Type="String" Name="ISBN" Nullable="false" MaxLength="13" Unicode="false" FixedLength="false" />
+          <Property Type="String" Name="Title" Nullable="false" MaxLength="4000" />
+          <Property Type="DateTime" Name="PublishingDate" Nullable="false" Precision="29" />
+          <Property Type="Int32" Name="PageCount" Nullable="false" />
+          <NavigationProperty Name="Persons" Relationship="BooksAndAuthors.PersonBook" FromRole="Book" ToRole="Person" />
+          <NavigationProperty Name="Sales" Relationship="BooksAndAuthors.BookSales" FromRole="Book" ToRole="Sales" />
+          </EntityType>
+        <EntityType Name="Person" Abstract="true">
+          <Key>
+            <PropertyRef Name="SSN" /></Key>
+          <Property Type="String" Name="SSN" Nullable="false" MaxLength="9" Unicode="false" FixedLength="true" />
+          <Property Type="String" Name="FirstName" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="LastName" Nullable="false" MaxLength="50" />
+          <Property Name="Phone" Type="BooksAndAuthors.PhoneNumber" Nullable="false" />
+          <NavigationProperty Name="Addresses" Relationship="BooksAndAuthors.PersonAddress" FromRole="Person" ToRole="Address" />
+          <NavigationProperty Name="Books" Relationship="BooksAndAuthors.PersonBook" FromRole="Person" ToRole="Book" />
+          </EntityType>
+        <EntityType Name="Author" BaseType="BooksAndAuthors.Person">
+          <Property Type="DateTime" Name="Signed" Nullable="false" Precision="29" /></EntityType>
+        <EntityType Name="Translator" BaseType="BooksAndAuthors.Person">
+          <NavigationProperty Name="Languages" Relationship="BooksAndAuthors.TranslatorLanguages" FromRole="Translator" ToRole="Languages" /></EntityType>
+        <ComplexType Name="PhoneNumber" >
+          <Property Type="String" Name="CountryCode" Nullable="false" MaxLength="3" />
+          <Property Type="String" Name="AreaCode" Nullable="false" MaxLength="3" DefaultValue="1" />
+          <Property Type="String" Name="Number" Nullable="false" />
+          <Property Type="String" Name="Extension" Nullable="true" MaxLength="20" /></ComplexType>
+        <EntityType Name="Address">
+          <Key>
+            <PropertyRef Name="Id" /></Key>
+          <Property Type="Int32" Name="Id" Nullable="false" store:StoreGeneratedPattern="Identity" />
+          <Property Type="String" Name="FirstLine" Nullable="false" MaxLength="50" />
+          <Property Type="String" Name="SecondLine" Nullable="true" MaxLength="50" />
+          <Property Type="String" Name="City" Nullable="false" MaxLength="50" />
+          <Property Type="Int32" Name="PostalCode" Nullable="false" />
+          <NavigationProperty Name="Person" Relationship="BooksAndAuthors.PersonAddress" FromRole="Address" ToRole="Person" />
+          <Property Type="String" Name="State" Nullable="false" MaxLength="25" /></EntityType>
+        <Association Name="PersonAddress">
+          <End Type="BooksAndAuthors.Person" Role="Person" Multiplicity="1" >
+            <OnDelete Action="Cascade" /></End>
+          <End Type="BooksAndAuthors.Address" Role="Address" Multiplicity="*" /></Association>
+        <Association Name="PersonBook">
+          <End Type="BooksAndAuthors.Person" Role="Person" Multiplicity="*" />
+          <End Type="BooksAndAuthors.Book" Role="Book" Multiplicity="*" /></Association>
+        <EntityType Name="Language">
+          <Key>
+            <PropertyRef Name="Id" /></Key>
+          <Property Type="Int32" Name="Id" Nullable="false" store:StoreGeneratedPattern="Identity" />
+          <NavigationProperty Name="Translator" Relationship="BooksAndAuthors.TranslatorLanguages" FromRole="Languages" ToRole="Translator" />
+          <Property Type="String" Name="Name" Nullable="false" /></EntityType>
+        <Association Name="TranslatorLanguages">
+          <End Type="BooksAndAuthors.Translator" Role="Translator" Multiplicity="*" />
+          <End Type="BooksAndAuthors.Language" Role="Languages" Multiplicity="*" /></Association>
+        <EntityType Name="SaleByMonth">
+          <Key>
+            <PropertyRef Name="Id" /></Key>
+          <Property Type="Int16" Name="Month" Nullable="false" />
+          <Property Type="Int16" Name="Year" Nullable="false" />
+          <NavigationProperty Name="Book" Relationship="BooksAndAuthors.BookSales" FromRole="Sales" ToRole="Book" />
+          <Property Type="Int32" Name="Id" Nullable="false" store:StoreGeneratedPattern="Identity" />
+          <Property Type="Int64" Name="CopiesSold" Nullable="false" /></EntityType>
+        <ComplexType Name="MonthOfYear" >
+          <Property Type="Int16" Name="Month" Nullable="false" />
+          </ComplexType>
+        <Association Name="BookSales">
+          <End Type="BooksAndAuthors.Book" Role="Book" Multiplicity="1" />
+          <End Type="BooksAndAuthors.SaleByMonth" Role="Sales" Multiplicity="*" />
+          </Association></Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+    <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BooksAndAuthorsStoreContainer" CdmEntityContainer="BooksAndAuthorsContainer">
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Book)">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="PublishingDate" ColumnName="PublishingDate" />
+          <ScalarProperty Name="PageCount" ColumnName="PageCount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Persons">
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Person)">
+        <MappingFragment StoreEntitySet="Persons">
+          <ScalarProperty Name="SSN" ColumnName="SSN" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ComplexProperty Name="Phone" TypeName="BooksAndAuthors.PhoneNumber">
+            <ScalarProperty Name="CountryCode" ColumnName="Phone_CountryCode" />
+            <ScalarProperty Name="AreaCode" ColumnName="Phone_AreaCode" />
+            <ScalarProperty Name="Number" ColumnName="Phone_Number" />
+            <ScalarProperty Name="Extension" ColumnName="Phone_Extension" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Translator)">
+        <MappingFragment StoreEntitySet="Persons_Translator">
+          <ScalarProperty Name="SSN" ColumnName="SSN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Author)">
+        <MappingFragment StoreEntitySet="Persons_Author">
+          <ScalarProperty Name="SSN" ColumnName="SSN" />
+          <ScalarProperty Name="Signed" ColumnName="Signed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addresses">
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Address)">
+        <MappingFragment StoreEntitySet="Addresses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FirstLine" ColumnName="FirstLine" />
+          <ScalarProperty Name="SecondLine" ColumnName="SecondLine" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="State" ColumnName="State" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Languages">
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.Language)">
+        <MappingFragment StoreEntitySet="Languages">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SalesByMonth">
+      <EntityTypeMapping TypeName="IsTypeOf(BooksAndAuthors.SaleByMonth)">
+        <MappingFragment StoreEntitySet="SalesByMonth">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="CopiesSold" ColumnName="CopiesSold" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="PersonAddress" TypeName="BooksAndAuthors.PersonAddress" StoreEntitySet="Addresses">
+      <EndProperty Name="Person">
+        <ScalarProperty Name="SSN" ColumnName="Person_SSN" />
+      </EndProperty>
+      <EndProperty Name="Address">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PersonBook" TypeName="BooksAndAuthors.PersonBook" StoreEntitySet="PersonBook">
+      <EndProperty Name="Person">
+        <ScalarProperty Name="SSN" ColumnName="Persons_SSN" />
+      </EndProperty>
+      <EndProperty Name="Book">
+        <ScalarProperty Name="ISBN" ColumnName="Books_ISBN" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="TranslatorLanguages" TypeName="BooksAndAuthors.TranslatorLanguages" StoreEntitySet="TranslatorLanguages">
+      <EndProperty Name="Translator">
+        <ScalarProperty Name="SSN" ColumnName="Translator_SSN" />
+      </EndProperty>
+      <EndProperty Name="Languages">
+        <ScalarProperty Name="Id" ColumnName="Languages_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="BookSales" TypeName="BooksAndAuthors.BookSales" StoreEntitySet="SalesByMonth">
+      <EndProperty Name="Book">
+        <ScalarProperty Name="ISBN" ColumnName="Book_ISBN" />
+      </EndProperty>
+      <EndProperty Name="Sales">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping></edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram Name="BooksAndAuthors" >
+        <EntityTypeShape EntityType="BooksAndAuthors.Book" Width="1.5" PointX="6.25" PointY="1.5" Height="1.7566536458333339" />
+        <EntityTypeShape EntityType="BooksAndAuthors.Person" Width="1.5" PointX="3.125" PointY="1.5" Height="1.592306315104167" />
+        <EntityTypeShape EntityType="BooksAndAuthors.Author" Width="1.5" PointX="2.125" PointY="4.125" Height="1.0992643229166665" />
+        <InheritanceConnector EntityType="BooksAndAuthors.Author" ManuallyRouted="false">
+          <ConnectorPoint PointX="3.875" PointY="3.4210009765625" />
+          <ConnectorPoint PointX="3.875" PointY="3.75" />
+          <ConnectorPoint PointX="2.875" PointY="3.75" />
+          <ConnectorPoint PointX="2.875" PointY="4.125" /></InheritanceConnector>
+        <EntityTypeShape EntityType="BooksAndAuthors.Translator" Width="1.5" PointX="4.125" PointY="4.125" Height="0.93491699218749957" />
+        <InheritanceConnector EntityType="BooksAndAuthors.Translator" ManuallyRouted="false">
+          <ConnectorPoint PointX="3.875" PointY="3.4210009765625" />
+          <ConnectorPoint PointX="3.875" PointY="3.75" />
+          <ConnectorPoint PointX="4.875" PointY="3.75" />
+          <ConnectorPoint PointX="4.875" PointY="4.125" /></InheritanceConnector>
+        <EntityTypeShape EntityType="BooksAndAuthors.Address" Width="1.5" PointX="1" PointY="1.5" Height="2.085348307291667" />
+        <AssociationConnector Association="BooksAndAuthors.PersonAddress">
+          <ConnectorPoint PointX="3.125" PointY="2.46050048828125" />
+          <ConnectorPoint PointX="2.5" PointY="2.46050048828125" /></AssociationConnector>
+        <AssociationConnector Association="BooksAndAuthors.PersonBook">
+          <ConnectorPoint PointX="4.625" PointY="2.3783268229166667" />
+          <ConnectorPoint PointX="6.25" PointY="2.3783268229166667" /></AssociationConnector>
+        <EntityTypeShape EntityType="BooksAndAuthors.Language" Width="1.5" PointX="6.25" PointY="4.125" Height="1.4279589843749996" IsExpanded="true" />
+        <AssociationConnector Association="BooksAndAuthors.TranslatorLanguages">
+          <ConnectorPoint PointX="5.625" PointY="4.6746321614583337" />
+          <ConnectorPoint PointX="6.25" PointY="4.6746321614583337" /></AssociationConnector>
+        <EntityTypeShape EntityType="BooksAndAuthors.SaleByMonth" Width="1.5" PointX="8.875" PointY="1.5" Height="1.7566536458333339" />
+        <AssociationConnector Association="BooksAndAuthors.BookSales">
+          <ConnectorPoint PointX="7.75" PointY="2.3783268229166667" />
+          <ConnectorPoint PointX="8.875" PointY="2.3783268229166667" /></AssociationConnector></Diagram></edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

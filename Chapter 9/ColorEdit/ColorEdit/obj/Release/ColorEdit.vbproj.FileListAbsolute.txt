@@ -1,0 +1,20 @@
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.pdb
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ResolveAssemblyReference.cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.Resources.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.UserControl1.resources
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.vbproj.GenerateResource.Cache
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.dll
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.xml
+G:\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.pdb
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.dll
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.pdb
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\bin\Release\ColorEdit.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ResolveAssemblyReference.cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.Resources.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.UserControl1.resources
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.vbproj.GenerateResource.Cache
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.dll
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.xml
+C:\TEMP WORK FILES ON VAIO\Work\SYBEX\Mastering VB Next\Chapters\Chapter 12\Projects\ColorEdit\ColorEdit\obj\Release\ColorEdit.pdb

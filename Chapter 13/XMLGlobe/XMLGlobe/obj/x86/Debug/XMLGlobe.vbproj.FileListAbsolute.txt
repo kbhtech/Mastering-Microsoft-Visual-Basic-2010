@@ -1,0 +1,11 @@
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\bin\Debug\XMLGlobe.exe
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\bin\Debug\XMLGlobe.pdb
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\bin\Debug\XMLGlobe.xml
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\XMLGlobe.Form1.resources
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\XMLGlobe.Resources.resources
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\XMLGlobe.exe
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\XMLGlobe.xml
+C:\Work\Books\VB2010\Mastering VB2010\Chapter 13\Projects\XMLGlobe\XMLGlobe\obj\x86\Debug\XMLGlobe.pdb

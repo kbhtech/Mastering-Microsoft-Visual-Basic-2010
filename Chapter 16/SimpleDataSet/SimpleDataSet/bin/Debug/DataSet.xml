@@ -1,0 +1,681 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <Categories diffgr:id="Categories1" msdata:rowOrder="0">
+      <CategoryID>1</CategoryID>
+      <CategoryName>Beverages</CategoryName>
+      <Description>Soft drinks, coffees, teas, beers, and ales</Description>
+    </Categories>
+    <Categories diffgr:id="Categories2" msdata:rowOrder="1">
+      <CategoryID>2</CategoryID>
+      <CategoryName>Condiments</CategoryName>
+      <Description>Sweet and savory sauces, relishes, spreads, and seasonings</Description>
+    </Categories>
+    <Categories diffgr:id="Categories3" msdata:rowOrder="2">
+      <CategoryID>3</CategoryID>
+      <CategoryName>Confections1</CategoryName>
+      <Description>Desserts, candies, and sweet breads</Description>
+    </Categories>
+    <Categories diffgr:id="Categories4" msdata:rowOrder="3">
+      <CategoryID>4</CategoryID>
+      <CategoryName>Dairy Products</CategoryName>
+      <Description>Cheeses</Description>
+    </Categories>
+    <Categories diffgr:id="Categories5" msdata:rowOrder="4">
+      <CategoryID>5</CategoryID>
+      <CategoryName>Grains/Cereals</CategoryName>
+      <Description>Breads, crackers, pasta, and cereal</Description>
+    </Categories>
+    <Categories diffgr:id="Categories6" msdata:rowOrder="5">
+      <CategoryID>6</CategoryID>
+      <CategoryName>Meat/Poultry</CategoryName>
+      <Description>Prepared meats</Description>
+    </Categories>
+    <Categories diffgr:id="Categories7" msdata:rowOrder="6">
+      <CategoryID>7</CategoryID>
+      <CategoryName>Produce</CategoryName>
+      <Description>Dried fruit and bean curd</Description>
+    </Categories>
+    <Categories diffgr:id="Categories8" msdata:rowOrder="7">
+      <CategoryID>8</CategoryID>
+      <CategoryName>Seafood</CategoryName>
+      <Description>Seaweed and fish</Description>
+    </Categories>
+    <Categories diffgr:id="Categories9" msdata:rowOrder="8">
+      <CategoryID>12</CategoryID>
+      <CategoryName>newC</CategoryName>
+      <Description>new  cateogry</Description>
+    </Categories>
+    <Products diffgr:id="Products1" msdata:rowOrder="0">
+      <ProductID>1</ProductID>
+      <ProductName>Chai</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>18.0000</UnitPrice>
+      <UnitsInStock>39</UnitsInStock>
+    </Products>
+    <Products diffgr:id="Products2" msdata:rowOrder="1">
+      <ProductID>2</ProductID>
+      <ProductName>Chan</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>19.8000</UnitPrice>
+      <UnitsInStock>17</UnitsInStock>
+      <UnitsOnOrder>40</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products3" msdata:rowOrder="2">
+      <ProductID>3</ProductID>
+      <ProductName>Aniseed Syrup</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>10.0000</UnitPrice>
+      <UnitsInStock>13</UnitsInStock>
+      <UnitsOnOrder>70</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products4" msdata:rowOrder="3">
+      <ProductID>4</ProductID>
+      <ProductName>Chef Anton's Cajun Seasoning</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>22.0000</UnitPrice>
+      <UnitsInStock>53</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products5" msdata:rowOrder="4">
+      <ProductID>5</ProductID>
+      <ProductName>Chef Anton's Gumbo Mixaaaa</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>21.3500</UnitPrice>
+      <UnitsInStock>0</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products6" msdata:rowOrder="5">
+      <ProductID>6</ProductID>
+      <ProductName>Grandma's Boysenberry Spread</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>25.0000</UnitPrice>
+      <UnitsInStock>120</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products7" msdata:rowOrder="6">
+      <ProductID>7</ProductID>
+      <ProductName>Uncle Bob's Organic Dried Pears</ProductName>
+      <CategoryID>7</CategoryID>
+      <UnitPrice>30.0000</UnitPrice>
+      <UnitsInStock>15</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products8" msdata:rowOrder="7">
+      <ProductID>8</ProductID>
+      <ProductName>Northwoods Cranberry Sauce</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>40.0000</UnitPrice>
+      <UnitsInStock>6</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products9" msdata:rowOrder="8">
+      <ProductID>9</ProductID>
+      <ProductName>Mishi Kobe Niku</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>97.0000</UnitPrice>
+      <UnitsInStock>29</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products10" msdata:rowOrder="9">
+      <ProductID>10</ProductID>
+      <ProductName>Ikura</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>31.0000</UnitPrice>
+      <UnitsInStock>31</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products11" msdata:rowOrder="10">
+      <ProductID>11</ProductID>
+      <ProductName>Queso Cabrales</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>21.0000</UnitPrice>
+      <UnitsInStock>22</UnitsInStock>
+      <UnitsOnOrder>30</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products12" msdata:rowOrder="11">
+      <ProductID>12</ProductID>
+      <ProductName>Queso Manchego La Pastora</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>37.0000</UnitPrice>
+      <UnitsInStock>86</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products13" msdata:rowOrder="12">
+      <ProductID>13</ProductID>
+      <ProductName>Konbu</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>6.0000</UnitPrice>
+      <UnitsInStock>24</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products14" msdata:rowOrder="13">
+      <ProductID>14</ProductID>
+      <ProductName>Tofuqq</ProductName>
+      <CategoryID>7</CategoryID>
+      <UnitPrice>23.2500</UnitPrice>
+      <UnitsInStock>35</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products15" msdata:rowOrder="14">
+      <ProductID>15</ProductID>
+      <ProductName>Genen Shouyu</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>15.2500</UnitPrice>
+      <UnitsInStock>39</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products16" msdata:rowOrder="15">
+      <ProductID>16</ProductID>
+      <ProductName>Pavlov</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>17.4500</UnitPrice>
+      <UnitsInStock>29</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products17" msdata:rowOrder="16">
+      <ProductID>17</ProductID>
+      <ProductName>Alice Mutton</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>39.4000</UnitPrice>
+      <UnitsInStock>0</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products18" msdata:rowOrder="17">
+      <ProductID>18</ProductID>
+      <ProductName>Carnarvon Tigers</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>62.5000</UnitPrice>
+      <UnitsInStock>42</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products19" msdata:rowOrder="18">
+      <ProductID>19</ProductID>
+      <ProductName>Teatime Chocolate Biscuits</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>9.1200</UnitPrice>
+      <UnitsInStock>25</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products20" msdata:rowOrder="19">
+      <ProductID>20</ProductID>
+      <ProductName>Sir Rodney's Marmalade</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>81.0000</UnitPrice>
+      <UnitsInStock>40</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products21" msdata:rowOrder="20">
+      <ProductID>21</ProductID>
+      <ProductName>Sir Rodney's Scones11</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>10.0000</UnitPrice>
+      <UnitsInStock>3</UnitsInStock>
+      <UnitsOnOrder>40</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products22" msdata:rowOrder="21">
+      <ProductID>22</ProductID>
+      <ProductName>Gustaf's Knackebrod</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>21.0000</UnitPrice>
+      <UnitsInStock>104</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products23" msdata:rowOrder="22">
+      <ProductID>23</ProductID>
+      <ProductName>Tunnbrod</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>9.0000</UnitPrice>
+      <UnitsInStock>61</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products24" msdata:rowOrder="23">
+      <ProductID>24</ProductID>
+      <ProductName>Guarana Fantastica</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>4.5000</UnitPrice>
+      <UnitsInStock>20</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products25" msdata:rowOrder="24">
+      <ProductID>25</ProductID>
+      <ProductName>NuNuCa Nu?-Nougat-Creme</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>14.0000</UnitPrice>
+      <UnitsInStock>76</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products26" msdata:rowOrder="25">
+      <ProductID>26</ProductID>
+      <ProductName>Gumbar Gummibarchen</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>31.2300</UnitPrice>
+      <UnitsInStock>15</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products27" msdata:rowOrder="26">
+      <ProductID>27</ProductID>
+      <ProductName>Schoggi Schokoladeaa</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>43.9000</UnitPrice>
+      <UnitsInStock>49</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products28" msdata:rowOrder="27">
+      <ProductID>28</ProductID>
+      <ProductName>Rossle Sauerkraut</ProductName>
+      <CategoryID>7</CategoryID>
+      <UnitPrice>45.6000</UnitPrice>
+      <UnitsInStock>26</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products29" msdata:rowOrder="28">
+      <ProductID>29</ProductID>
+      <ProductName>Thuringer Rostbratwurst</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>123.7900</UnitPrice>
+      <UnitsInStock>0</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products30" msdata:rowOrder="29">
+      <ProductID>30</ProductID>
+      <ProductName>Nord-Ost Matjeshering</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>25.8900</UnitPrice>
+      <UnitsInStock>10</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products31" msdata:rowOrder="30">
+      <ProductID>31</ProductID>
+      <ProductName>Gorgonzola Telino</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>12.5000</UnitPrice>
+      <UnitsInStock>0</UnitsInStock>
+      <UnitsOnOrder>70</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products32" msdata:rowOrder="31">
+      <ProductID>32</ProductID>
+      <ProductName>Mascarpone Fabiolivv</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>32.0000</UnitPrice>
+      <UnitsInStock>9</UnitsInStock>
+      <UnitsOnOrder>40</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products33" msdata:rowOrder="32">
+      <ProductID>33</ProductID>
+      <ProductName>Geitost</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>2.5000</UnitPrice>
+      <UnitsInStock>112</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products34" msdata:rowOrder="33">
+      <ProductID>34</ProductID>
+      <ProductName>Sasquatch Ale</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>14.2000</UnitPrice>
+      <UnitsInStock>111</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products35" msdata:rowOrder="34">
+      <ProductID>35</ProductID>
+      <ProductName>Steeleye Stout</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>18.0000</UnitPrice>
+      <UnitsInStock>20</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products36" msdata:rowOrder="35">
+      <ProductID>36</ProductID>
+      <ProductName>Inlagd Sill</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>19.0000</UnitPrice>
+      <UnitsInStock>112</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products37" msdata:rowOrder="36">
+      <ProductID>37</ProductID>
+      <ProductName>Gravad lax</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>26.0000</UnitPrice>
+      <UnitsInStock>11</UnitsInStock>
+      <UnitsOnOrder>50</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products38" msdata:rowOrder="37">
+      <ProductID>38</ProductID>
+      <ProductName>Cote de Blaye</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>263.5100</UnitPrice>
+      <UnitsInStock>17</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products39" msdata:rowOrder="38">
+      <ProductID>39</ProductID>
+      <ProductName>Chartreuse verte</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>18.0000</UnitPrice>
+      <UnitsInStock>69</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products40" msdata:rowOrder="39">
+      <ProductID>40</ProductID>
+      <ProductName>Boston Crab Meat</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>18.4000</UnitPrice>
+      <UnitsInStock>123</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products41" msdata:rowOrder="40">
+      <ProductID>41</ProductID>
+      <ProductName>Jack's New England Clam Chowder</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>9.6500</UnitPrice>
+      <UnitsInStock>85</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products42" msdata:rowOrder="41">
+      <ProductID>42</ProductID>
+      <ProductName>Singaporean Hokkien Fried Mee</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>14.0000</UnitPrice>
+      <UnitsInStock>26</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products43" msdata:rowOrder="42">
+      <ProductID>43</ProductID>
+      <ProductName>Ipoh Coffee</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>46.0000</UnitPrice>
+      <UnitsInStock>17</UnitsInStock>
+      <UnitsOnOrder>10</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products44" msdata:rowOrder="43">
+      <ProductID>44</ProductID>
+      <ProductName>Gula Malacca - NEW</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>19.4500</UnitPrice>
+      <UnitsInStock>27</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products45" msdata:rowOrder="44">
+      <ProductID>45</ProductID>
+      <ProductName>Rogede sild</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>9.5000</UnitPrice>
+      <UnitsInStock>5</UnitsInStock>
+      <UnitsOnOrder>70</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products46" msdata:rowOrder="45">
+      <ProductID>46</ProductID>
+      <ProductName>Spegesild</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>12.0000</UnitPrice>
+      <UnitsInStock>95</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products47" msdata:rowOrder="46">
+      <ProductID>47</ProductID>
+      <ProductName>Zaanse koeken</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>9.5000</UnitPrice>
+      <UnitsInStock>36</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products48" msdata:rowOrder="47">
+      <ProductID>48</ProductID>
+      <ProductName>Chocolade</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>12.7500</UnitPrice>
+      <UnitsInStock>15</UnitsInStock>
+      <UnitsOnOrder>70</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products49" msdata:rowOrder="48">
+      <ProductID>49</ProductID>
+      <ProductName>Maxilaku - NEW</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>20.0000</UnitPrice>
+      <UnitsInStock>10</UnitsInStock>
+      <UnitsOnOrder>60</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products50" msdata:rowOrder="49">
+      <ProductID>50</ProductID>
+      <ProductName>Valkoinen suklaa</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>16.2500</UnitPrice>
+      <UnitsInStock>65</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products51" msdata:rowOrder="50">
+      <ProductID>51</ProductID>
+      <ProductName>Manjimup Dried Apples</ProductName>
+      <CategoryID>7</CategoryID>
+      <UnitPrice>53.0000</UnitPrice>
+      <UnitsInStock>20</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products52" msdata:rowOrder="51">
+      <ProductID>52</ProductID>
+      <ProductName>Filo Mix - NEW</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>7.0000</UnitPrice>
+      <UnitsInStock>38</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products53" msdata:rowOrder="52">
+      <ProductID>53</ProductID>
+      <ProductName>Perth Pasties - NEW</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>32.8000</UnitPrice>
+      <UnitsInStock>0</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products54" msdata:rowOrder="53">
+      <ProductID>54</ProductID>
+      <ProductName>Tourtiere</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>7.4500</UnitPrice>
+      <UnitsInStock>21</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products55" msdata:rowOrder="54">
+      <ProductID>55</ProductID>
+      <ProductName>Pate chinois</ProductName>
+      <CategoryID>6</CategoryID>
+      <UnitPrice>24.0000</UnitPrice>
+      <UnitsInStock>115</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products56" msdata:rowOrder="55">
+      <ProductID>56</ProductID>
+      <ProductName>Gnocchi di nonna Alice</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>38.0000</UnitPrice>
+      <UnitsInStock>21</UnitsInStock>
+      <UnitsOnOrder>10</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products57" msdata:rowOrder="56">
+      <ProductID>57</ProductID>
+      <ProductName>Ravioli Angelo</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>19.5000</UnitPrice>
+      <UnitsInStock>36</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products58" msdata:rowOrder="57">
+      <ProductID>58</ProductID>
+      <ProductName>Escargots de Bourgogne</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>13.2500</UnitPrice>
+      <UnitsInStock>62</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products59" msdata:rowOrder="58">
+      <ProductID>59</ProductID>
+      <ProductName>Raclette Courdavault</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>55.0000</UnitPrice>
+      <UnitsInStock>79</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products60" msdata:rowOrder="59">
+      <ProductID>60</ProductID>
+      <ProductName>Camembert Pierrot </ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>34.0000</UnitPrice>
+      <UnitsInStock>19</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products61" msdata:rowOrder="60">
+      <ProductID>61</ProductID>
+      <ProductName>Sirop d'erable</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>28.5000</UnitPrice>
+      <UnitsInStock>113</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products62" msdata:rowOrder="61">
+      <ProductID>62</ProductID>
+      <ProductName>Tarte au sucre</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>49.3000</UnitPrice>
+      <UnitsInStock>17</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products63" msdata:rowOrder="62">
+      <ProductID>63</ProductID>
+      <ProductName>Vegie-spread</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>43.9000</UnitPrice>
+      <UnitsInStock>24</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products64" msdata:rowOrder="63">
+      <ProductID>64</ProductID>
+      <ProductName>Wimmers gute Semmelknodel</ProductName>
+      <CategoryID>5</CategoryID>
+      <UnitPrice>33.2500</UnitPrice>
+      <UnitsInStock>22</UnitsInStock>
+      <UnitsOnOrder>80</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products65" msdata:rowOrder="64">
+      <ProductID>65</ProductID>
+      <ProductName>Louisiana Fiery Hot Pepper Sauce</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>21.0500</UnitPrice>
+      <UnitsInStock>76</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products66" msdata:rowOrder="65">
+      <ProductID>66</ProductID>
+      <ProductName>Louisiana Hot Spiced Okra</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>17.0000</UnitPrice>
+      <UnitsInStock>4</UnitsInStock>
+      <UnitsOnOrder>100</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products67" msdata:rowOrder="66">
+      <ProductID>67</ProductID>
+      <ProductName>Laughing Lumberjack Lager - NEW</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>14.0000</UnitPrice>
+      <UnitsInStock>52</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products68" msdata:rowOrder="67">
+      <ProductID>68</ProductID>
+      <ProductName>Scottish Longbreads</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>12.5000</UnitPrice>
+      <UnitsInStock>6</UnitsInStock>
+      <UnitsOnOrder>10</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products69" msdata:rowOrder="68">
+      <ProductID>69</ProductID>
+      <ProductName>Gudbrandsdalsost</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>36.0000</UnitPrice>
+      <UnitsInStock>26</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products70" msdata:rowOrder="69">
+      <ProductID>70</ProductID>
+      <ProductName>Outback Lager</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>15.0000</UnitPrice>
+      <UnitsInStock>15</UnitsInStock>
+      <UnitsOnOrder>10</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products71" msdata:rowOrder="70">
+      <ProductID>71</ProductID>
+      <ProductName>Flotemysost</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>21.5000</UnitPrice>
+      <UnitsInStock>26</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products72" msdata:rowOrder="71">
+      <ProductID>72</ProductID>
+      <ProductName>Mozzarella di Giovanni</ProductName>
+      <CategoryID>4</CategoryID>
+      <UnitPrice>34.8000</UnitPrice>
+      <UnitsInStock>14</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products73" msdata:rowOrder="72">
+      <ProductID>73</ProductID>
+      <ProductName>Rod Kaviar</ProductName>
+      <CategoryID>8</CategoryID>
+      <UnitPrice>15.0000</UnitPrice>
+      <UnitsInStock>101</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products74" msdata:rowOrder="73">
+      <ProductID>74</ProductID>
+      <ProductName>Longlife Tofu</ProductName>
+      <CategoryID>7</CategoryID>
+      <UnitPrice>10.0000</UnitPrice>
+      <UnitsInStock>4</UnitsInStock>
+      <UnitsOnOrder>20</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products75" msdata:rowOrder="74">
+      <ProductID>75</ProductID>
+      <ProductName>Rhonbrau Klosterbier</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>7.7500</UnitPrice>
+      <UnitsInStock>125</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products76" msdata:rowOrder="75">
+      <ProductID>76</ProductID>
+      <ProductName>Lakkalikoori</ProductName>
+      <CategoryID>1</CategoryID>
+      <UnitPrice>18.0000</UnitPrice>
+      <UnitsInStock>57</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products77" msdata:rowOrder="76">
+      <ProductID>77</ProductID>
+      <ProductName>Original Frankfurter grune So?e - NEW</ProductName>
+      <CategoryID>2</CategoryID>
+      <UnitPrice>13.0000</UnitPrice>
+      <UnitsInStock>32</UnitsInStock>
+      <UnitsOnOrder>0</UnitsOnOrder>
+    </Products>
+    <Products diffgr:id="Products78" msdata:rowOrder="77">
+      <ProductID>106</ProductID>
+      <ProductName>asddsa</ProductName>
+      <CategoryID>2</CategoryID>
+    </Products>
+    <Products diffgr:id="Products79" msdata:rowOrder="78">
+      <ProductID>107</ProductID>
+      <ProductName>ssss</ProductName>
+      <CategoryID>3</CategoryID>
+      <UnitPrice>13.0000</UnitPrice>
+    </Products>
+    <Products diffgr:id="Products80" msdata:rowOrder="79">
+      <ProductID>109</ProductID>
+      <ProductName>wwww</ProductName>
+      <CategoryID>4</CategoryID>
+    </Products>
+  </NewDataSet>
+</diffgr:diffgram>

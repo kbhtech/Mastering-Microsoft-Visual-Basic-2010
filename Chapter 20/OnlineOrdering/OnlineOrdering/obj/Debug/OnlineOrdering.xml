@@ -1,0 +1,352 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OnlineOrdering
+</name>
+</assembly>
+<members>
+<member name="F:OnlineOrdering.Confirmation.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Confirmation.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.ddlCategories">
+	<summary>
+ddlCategories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.odsCategories">
+	<summary>
+odsCategories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.odsProducts">
+	<summary>
+odsProducts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Products.gwProducts">
+	<summary>
+gwProducts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.lblProductName">
+	<summary>
+lblProductName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.txtQuantity">
+	<summary>
+txtQuantity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.RangeValidator1">
+	<summary>
+RangeValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.bttnAdd">
+	<summary>
+bttnAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.bttnCancel">
+	<summary>
+bttnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Quantity.odsProductByProductId">
+	<summary>
+odsProductByProductId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.gwCart">
+	<summary>
+gwCart control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.bttnCheckOut">
+	<summary>
+bttnCheckOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.bttnAddMore">
+	<summary>
+bttnAddMore control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:OnlineOrdering.Cart.bttnEmpty">
+	<summary>
+bttnEmpty control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:OnlineOrdering.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:OnlineOrdering.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:OnlineOrdering.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:OnlineOrdering.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:OnlineOrdering.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:OnlineOrdering.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:OnlineOrdering.Northwind.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.Order_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.Order_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OnlineOrdering.Northwind.Order_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:OnlineOrdering.Northwind">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.Order_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.UpdateUpdatedRows(OnlineOrdering.Northwind,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.UpdateInsertedRows(OnlineOrdering.Northwind,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.UpdateDeletedRows(OnlineOrdering.Northwind,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.UpdateAll(OnlineOrdering.Northwind)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:OnlineOrdering.NorthwindTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

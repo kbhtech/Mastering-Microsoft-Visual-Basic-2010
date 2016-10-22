@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Products", "Products\Products.vbproj", "{DC7AEF75-5F05-4637-B6EF-2A9B857342B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7AEF75-5F05-4637-B6EF-2A9B857342B7}.Debug|x86.ActiveCfg = Debug|x86
+		{DC7AEF75-5F05-4637-B6EF-2A9B857342B7}.Debug|x86.Build.0 = Debug|x86
+		{DC7AEF75-5F05-4637-B6EF-2A9B857342B7}.Release|x86.ActiveCfg = Release|x86
+		{DC7AEF75-5F05-4637-B6EF-2A9B857342B7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

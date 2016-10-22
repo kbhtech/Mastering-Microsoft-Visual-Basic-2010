@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Simple Printout", "Simple Printout\Simple Printout.vbproj", "{DB3FDE35-A71E-4A68-8F47-80A6DB6DB4AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3FDE35-A71E-4A68-8F47-80A6DB6DB4AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3FDE35-A71E-4A68-8F47-80A6DB6DB4AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3FDE35-A71E-4A68-8F47-80A6DB6DB4AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3FDE35-A71E-4A68-8F47-80A6DB6DB4AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
